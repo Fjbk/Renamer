@@ -1,1 +1,1 @@
-"# Renamer" 
+Basic application meant to simplify the process of renaming files within datasets used in machine learning
